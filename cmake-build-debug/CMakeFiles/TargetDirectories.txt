@@ -1,3 +1,0 @@
-/Users/zhouchunlai/CLionProjects/contract-matching-engine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/zhouchunlai/CLionProjects/contract-matching-engine/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/zhouchunlai/CLionProjects/contract-matching-engine/cmake-build-debug/CMakeFiles/contract_matching_engine.dir
